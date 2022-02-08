@@ -12,7 +12,7 @@ AutosRUs’ required specific data to assist the with manufacturing of the Mecha
 	
 - The p-value of this multiple linear regression analysis is 5.35 x 10(-11). There is enough here to reject the null hypothesis.
 
-![Deliverable_1](/resources/1_lin.png)
+![Deliverable_1] (/resources/1_lin.png)
 
 - This linear model shows that 71.49% of MPG predictions of MechaCar prototypes will be correct. It also suggests there is a correlation between MPG and vehicle specs / features (weight, length, All wheel drive, etc).
 
