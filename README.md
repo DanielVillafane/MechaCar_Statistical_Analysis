@@ -37,7 +37,7 @@ In all t-tests conducted, the mean remained extremly close the 1500 population m
 
 Suspension coil t-test  had a p-value of 0.06  
 
-![Deliverable_3_All_T-test](/Rsources/5_suspv0602.png)
+![Deliverable_3_All_T-test](/Resources/5_suspv0602.png)
 
 Lot 1 had a p-value of 1
 
